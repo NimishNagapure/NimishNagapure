@@ -3,11 +3,8 @@
 ### Hi there 👋
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
-
-<!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
+<!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!--- Here are some ideas to get you started: 
 - 🔭 I’m currently working on ...Machine Projects
 - 🌱 I’m currently learning ...CNN(Convolutional Neural Network)
 - 👯 I’m looking to collaborate on ... Data Science Projects
