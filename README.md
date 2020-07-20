@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github.com/Nimish1224/Nimish1224/blob/master/NIM.png
+
 <!--
 **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
