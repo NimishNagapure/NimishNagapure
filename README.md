@@ -4,9 +4,7 @@
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
 
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-**Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -16,4 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...Data science | 
 - 📫 How to reach me: ... Given Below
+
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
