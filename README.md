@@ -13,8 +13,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 💬 Ask me about - Data science | Python | Machine Learning
 - 📫 How to reach me: Given Below ....(.)
 ---
-<br />
-
 
 ### Connect with me:
 
