@@ -15,7 +15,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/home) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nimish-nagapure-8b6792191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nimish_n24/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nimish.nagapure/) 
+[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhelp.twitter.com%2Fcontent%2Fdam%2Fhelp-twitter%2Ftwitter_logo_blue.png&imgrefurl=https%3A%2F%2Fhelp.twitter.com%2Fen%2Fusing-twitter%2Fhow-to-tweet&tbnid=FWsJ-AFvfLVgSM&vet=12ahUKEwjflq2T4fbqAhUTTXwKHSIaDJsQMygBegUIARDNAQ..i&docid=IH1cNmvsOScvgM&w=400&h=400&itg=1&q=twitter&ved=2ahUKEwjflq2T4fbqAhUTTXwKHSIaDJsQMygBegUIARDNAQ" />](https://twitter.com/home) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nimish-nagapure-8b6792191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nimish_n24/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nimish.nagapure/) 
 <br><br/>
 ---
 
@@ -27,6 +27,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ### GitHub Stats :
 
 <img align="left" alt="Nimish1224 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nimish1224&show_icons=true&hide_border=true&theme=radical" />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nimish1224&repo=Problems_on_Linear_Regression)](https://github.com/Nimish1224/Problems_on_Linear_Regression)
 
