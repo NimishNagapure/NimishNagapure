@@ -21,7 +21,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ### Languages and Tools:
 
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100"><img src="https://media.giphy.com/media/VHrQpI7wyshyz1CwcL/giphy.gif" width="100"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <br />
 ---
 
