@@ -11,7 +11,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about - Data science | Python | Machine Learning
-- 📫 How to reach me: Given Below ....(.)
+- 📫 How to reach me: Given Below ....
+<br><br/>
 ---
 
 ### Connect with me:
