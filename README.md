@@ -27,3 +27,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ### GitHub Stats :
 
 <img align="left" alt="Nimish1224 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nimish1224&show_icons=true&hide_border=true&theme=radical" />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nimish1224&repo=Problems_on_Linear_Regression)](https://github.com/Nimish1224/Problems_on_Linear_Regression)
+
