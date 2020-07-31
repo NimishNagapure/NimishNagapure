@@ -27,6 +27,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](.)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](.)
 <br />
+---
 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">              <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">                                         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
