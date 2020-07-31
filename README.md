@@ -1,6 +1,6 @@
 <img src="https://github.com/Nimish1224/Nimish1224/blob/master/NIM.png">
 
-# Hi there, I'm Nimish - [Nimish1224](.)  👋
+# Hi ### there, I'm Nimish - [Nimish1224](.)  👋
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
 <!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -19,7 +19,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <br><br/>
 ---
 
-### Languages and Tools:
+### Tools and Languages :
 
 <img src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100"><img src="https://media.giphy.com/media/VHrQpI7wyshyz1CwcL/giphy.gif" width="100"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <br />
