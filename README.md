@@ -10,7 +10,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning CNN-(Convolutional Neural Network)
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Artificial Intelligence
-- 💬 Ask me about - Data science | Python | Machine Learning
+- 💬 Ask me about - Data science | Python | Machine Learning | Artificial Intelligence
 - 📫 How to reach me: Given Below ....
 
 ### Connect with me:
