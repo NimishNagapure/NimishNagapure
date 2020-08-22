@@ -1,9 +1,10 @@
-<img src="https://github.com/Nimish1224/Nimish1224/blob/master/NIM.png">
+
 
 ## Hi there, I'm Nimish - [Nimish1224](.)  👋
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
 <!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<img src="https://github.com/Nimish1224/Nimish1224/blob/master/NIM.png">
 <!--- Here are some ideas to get you started: 
 --->
 - 🔭 I’m currently working on Machine Projects .
