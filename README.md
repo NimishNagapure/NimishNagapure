@@ -13,8 +13,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤔 I’m looking for help with Artificial Intelligence .
 - 💬 Ask me about - Data science | Python | Machine Learning | Artificial Intelligence .
 - 📫 How to reach me: Given Below ......
-
-### Connect with me:
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Nimish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -36,7 +34,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <!---<a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>--->
-
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 ### Tools and Languages :
 
