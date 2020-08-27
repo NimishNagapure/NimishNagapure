@@ -13,7 +13,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤔 I’m looking for help with Artificial Intelligence .
 - 💬 Ask me about - Data science | Python | Machine Learning | Artificial Intelligence .
 - 📫 How to reach me: Given Below ......
-- <a href="https://discord.com/channels/@m">
+<a href="https://discord.com/channels/@m">
   <img align="left" alt="Nimish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/home">
@@ -37,7 +37,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 <br/>
 
-### Tools and Languages :
+## Tools and Languages :
 
 <img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
@@ -50,6 +50,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img align="left" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
 <br />
 ---
+## Github Profile :
 
 <img align="left" alt="Nimish1224 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nimish1224&show_icons=true&hide_border=true&theme=radical" />
 
