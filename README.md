@@ -40,7 +40,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 <br/>
 
-## Tools and Languages :
+**Tools and Languages** :
 
 <img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
