@@ -35,7 +35,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 </a>
 <!---<a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+</a>--->
 
 
 ### Tools and Languages :
