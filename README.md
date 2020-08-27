@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Nimish - [Nimish1224](.)  👋
+## Hi there 👋 , I'm Nimish Nagapure
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
 <!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -15,10 +15,28 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 📫 How to reach me: Given Below ......
 
 ### Connect with me:
+<a href="https://discord.gg/qUbApEc">
+  <img align="left" alt="Nimish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/home">
+  <img align="left" alt="Nimish's Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nimish-nagapure-8b6792191/">
+  <img align="left" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://web.telegram.org/#/im">
+  <img align="left" alt="Nimish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/nimish_n24/">
+  <img align="left" alt="Nimish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/Cool_Boy_Nimish">
+  <img align="left" alt="Nimish's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<!---<a href="https://leetcode.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/home) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nimish-nagapure-8b6792191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nimish_n24/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nimish.nagapure/) 
-<br><br/>
----
 
 ### Tools and Languages :
 
