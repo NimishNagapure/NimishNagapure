@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Nimish1224/Nimish1224/blob/master/logo.png" alt="logo" width="100"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Nimish Nagapure</h1>
 
-# Hi 👋 , I'm Nimish Nagapure
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning. 
 <!--- **Nimish1224/Nimish1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -49,9 +52,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img align="left" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> 
 <img align="left" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
 <br />
----
 
-## Github Profile :
+
+## 
 
 <img align="left" alt="Nimish1224 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nimish1224&show_icons=true&hide_border=true&theme=radical" />
 
