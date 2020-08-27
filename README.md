@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nimish1224/Nimish1224/blob/master/logo.png" alt="logo" width="100"/>
+  <img src="https://github.com/NimishNagapure/NimishNagapure/blob/master/logo.png" alt="logo" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nimish Nagapure</h1>
@@ -60,5 +60,5 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ## 
 
-<img align="left" alt="Nimish1224 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nimish1224&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="NimishNagapure Github Stats" src="https://github-readme-stats.vercel.app/api?username=NimishNagapure&show_icons=true&hide_border=true&theme=radical" />
 
