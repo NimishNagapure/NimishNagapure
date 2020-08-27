@@ -35,10 +35,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
   <img align="left" alt="Nimish's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://leetcode.com/nimish/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Nimish's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 <br />
+---
 
 **Tools and Languages** :
 
@@ -50,7 +51,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
 <img align="left" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 <img align="left" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> 
-<img align="left" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+<img align="left" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="75">
 <br />
 
 
