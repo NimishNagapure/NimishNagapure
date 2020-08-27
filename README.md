@@ -14,27 +14,26 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 💬 Ask me about - Data science | Python | Machine Learning | Artificial Intelligence .
 - 📫 How to reach me: Given Below ......
 <a href="https://discord.gg/qUbApEc">
-  <img align="center" alt="Nimish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="right" alt="Nimish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/home">
-  <img align="center" alt="Nimish's Nagapure | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Nimish's Nagapure | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nimish-nagapure-8b6792191/">
-  <img align="center" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://web.telegram.org/#/im">
-  <img align="center" alt="Nimish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="right" alt="Nimish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/nimish_n24/">
-  <img align="center" alt="Nimish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Nimish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/Cool_Boy_Nimish">
-  <img align="center" alt="Nimish's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="right" alt="Nimish's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <!---<a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>--->
-![](https://visitor-badge.glitch.me/badge?page_id=Nimish1224.Nimish1224)
 
 <br/>
 
