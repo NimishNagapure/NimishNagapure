@@ -16,7 +16,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤔 I’m looking for help with Artificial Intelligence .
 - 💬 Ask me about - Data science | Python | Machine Learning | Artificial Intelligence .
 - 📫 How to reach me: Given Below ....👇
-- 📑 Check Out my Resume [click](https://drive.google.com/file/d/1Mi_l2mqj3cq9QGmCr3_RsCoSm2VNjxbM/view?usp=sharing)
+- 📑 Check Out my Resume [click](https://github.com/NimishNagapure/Demo/blob/master/Resume-Nimish.docx)
 <a href="https://discord.com/channels/@m">
   <img align="left" alt="Nimish's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
