@@ -11,7 +11,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <!--- Here are some ideas to get you started: 
 --->
 - 🔭 I’m currently working on Machine Projects .
-- 🌱 I’m currently learning CNN-(Convolutional Neural Network) . 
+- 🌱 I’m currently learning  . 
 - 👯 I’m looking to collaborate on Data Science Projects . 
 - 📑 <b>Here is my Resume 👉 [Click](https://github.com/NimishNagapure/Demo/blob/master/README.md)</b>
 - 🤔 I’m looking for help with Artificial Intelligence .
